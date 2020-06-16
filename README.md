@@ -1,2 +1,2 @@
 # Javascript_apps
-Mix of Js works
+Mix of JavaScript components, apps and mini solutions 
